@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+*.egg-info/
+
+# Node / Frontend
+manganex-frontend/node_modules/
+manganex-frontend/dist/
+
+# Env files
+.env
+.env.local
+
+# OS junk
+.DS_Store
